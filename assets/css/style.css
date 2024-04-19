@@ -1,0 +1,11 @@
+.nav-link{
+    font-weight: 500;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+.bg-hero{
+    background: url('../img/ocean.gif') no-repeat;
+    background-size: cover;
+    background-position: center;
+}
